@@ -1,4 +1,4 @@
-# learn-vuex
+# [learn-vuex](https://reactgo.com/vuejs-state-mangement-tutorial-using-vuex/)
 
 ## Project setup
 ```
